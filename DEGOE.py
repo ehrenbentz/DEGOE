@@ -2,7 +2,6 @@
 """
 DEGOE: Differential Expression -> Gene Ontology Enrichment
 v1.0 (2025)
-Written by E. J. Bentz
 
 DEGOE performs Gene Ontology enrichment analyses using differential expression
 results from DESeq2 directly, without the need to manually create scores files.
